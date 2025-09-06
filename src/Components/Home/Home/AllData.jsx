@@ -23,7 +23,7 @@ const AllData = () => {
 
     const axiosSecure = useAxiosSecure();
     const { user } = useAuth();
-
+// kadjakdjawdaw,dmw,dwadm,amwd
     // all states
     const [filterDropDownData, setFilterDropdownData] = useState('');   
     const [search, setSearch] = useState('');
